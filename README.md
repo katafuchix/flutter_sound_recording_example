@@ -2,6 +2,12 @@
 
 A new Flutter project.
 
+- record: ^4.0.0  # 録音
+- permission_handler: ^10.0.0  # マイクのパーミッション管理
+- path_provider: ^2.0.0  # ファイル保存のためのパス取得
+- just_audio: ^0.9.0  # 録音したファイルの再生用
+- audio_session: ^0.1.6  # セッション iOSで録音できない場合に使用
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
